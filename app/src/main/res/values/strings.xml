@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">practical2</string>
+    <string name="Toast_text">Toast</string>
+    <string name="count_text">COUNT</string>
+    <string name="zero">0</string>
+    <string name="toast_message">Hello AACS3353</string>
+</resources>
